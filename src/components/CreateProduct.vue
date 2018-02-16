@@ -4,10 +4,6 @@
         <p><router-link :to="{ name: 'home' }" class="btn btn-primary"><i class="fa fa-arrow-left"></i> Return to products</router-link></p>
         <notification v-bind:notifications="notifications"></notification>
         <form v-on:submit.prevent="addProduct">
-            <!-- <div class="form-group">
-                <label name="product_id">ID</label>
-                <input type="text" class="form-control" disabled v-model="product.id" id="product_id">
-            </div> -->
             <div class="form-group">
                 <label name="product_id">Product</label>
                 <select v-model="selected">

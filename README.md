@@ -1,7 +1,7 @@
 # Photobook Assessment
 This application was built on Vuejs backed with a simple Express framework to handle the CRUD operations.
 
-# Install using Node v6.10.3
+# Install
     > npm install
 
 # Run

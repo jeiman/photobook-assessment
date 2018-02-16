@@ -11,7 +11,7 @@ export default new Router({
     {
       name: 'home',
       path: '/',
-      component: AllProducts
+      component: Home
     },
     {
       name: 'create_product',

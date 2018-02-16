@@ -1,5 +1,5 @@
 # Photobook Assessment
-This application was built on Vuejs backed with a simple Express framework to handle the CRUD operations.
+This application was built on Vue.js backed with a simple Express framework to handle the CRUD operations.
 
 # Install
     > npm install
@@ -15,4 +15,4 @@ API is now active on http://localhost:3000
 # 2. Run the Site
     > npm run dev
 
-Navigation to http://localhost:8080 to view the site
+Navigate to http://localhost:8080 to view the site

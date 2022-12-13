@@ -11,7 +11,7 @@
   "dependencies": {
     "vue": "^2.0.1",
     "body-parser": "^1.4.3",
-    "express": "^4.4.5"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "axios": "^0.21.1",
